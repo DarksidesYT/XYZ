@@ -1,6 +1,6 @@
 ---
 name: XYZ_By_DarkSidesYT
-main: plugin\XYZ
+main: darksidesyt\XYZ
 author: DarkSidesYT
 description: XYZ simple
 version: 1.0.0
